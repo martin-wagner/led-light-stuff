@@ -1,0 +1,67 @@
+Partlist
+
+Exported from regler.sch at 12/13/2015 03:46:54p
+
+EAGLE Version 4.11 Copyright (c) 1988-2003 CadSoft
+
+Part          Value              Device                       Package      Library    Sheet
+
+C1            4,7µ               ELC-2,5                      ES-2,5       discrete   1
+C2            10n                C-EUC1206K                   C1206K       rcl        1
+C3            10n                C-EUC1206K                   C1206K       rcl        1
+C4            10n                C-EUC1206K                   C1206K       rcl        1
+C5            10n                C-EUC1206K                   C1206K       rcl        1
+C6            100n               C-EUC1206K                   C1206K       rcl        1
+C7            4,7µ               ELC-2,5                      ES-2,5       discrete   1
+C8            4700µF 35V         CPOL-EUE7.5-18               E7,5-18      rcl        1
+C9            100n               C-EUC1206K                   C1206K       rcl        1
+C10           100n               C-EUC1206K                   C1206K       rcl        1
+C11           10µ Panasonic      CP-SV-B                      SV-B         cap-master 1
+C12                              CPOL-EUE5-5                  E5-5         rcl        1
+D1                               DIODE-SMC                    SMC          diode      1
+D2            B140F              DIODE-                       DO214AA      diode      1
+D3                               DIODE-SMC                    SMC          diode      1
+D4                               DIODE-SMC                    SMC          diode      1
+D5            BZX84 5V1          BZX84CSMD                    TO236        diode      1
+D6            B140F              DIODE-                       DO214AA      diode      1
+D7                               DIODE-SMC                    SMC          diode      1
+DIS1          KINGBRIGHT_10MM_CC KINGBRIGHT_10MM_CC           HDSP-E       Martin     1
+IC1           PIC16F1827         PIC16F1827_RGB_CONTROLLER7SO SO-18W       Martin     1
+IC2           78L05SMD           78L05SMD                     SO08         linear     1
+IR-RECEIVERS1                    SFH511XB                     SFH5110      sfh511x    1
+IR-RECEIVERS2                    SFH511XB                     SFH5110      sfh511x    1
+JP1                              PINHD-1X3_2.54               1X03         pinhead-1  1
+JP2                              PINHD-1X3_2.54-SMD           1X03SMD      pinhead-1  1
+JP3                              PINHD-1X3_2.54-SMD           1X03SMD      pinhead-1  1
+JP4                              PINHD-1X3_2.54               1X03         pinhead-1  1
+JP5                              PINHD-1X5_2.54-SMD           1X05SMD      pinhead-1  1
+JP6                              PINHD-1X24_2.54-SMD          1X24SMD      pinhead-1  1
+JP7                              PINHD-1X24_2.54-SMD          1X24SMD      pinhead-1  1
+JP8                              PINHD-1X24_2.54-SMD          1X24SMD      pinhead-1  1
+JP9                              PINHD-1X5_2.54-SMD-90°       1X05SMD/90   pinhead-1  1
+JP10                             PINHD-1X24_2.54-SMD          1X24SMD      pinhead-1  1
+LED1                             LEDCHIPLED_1206              CHIPLED_1206 led        1
+LED2                             LEDCHIPLED_1206              CHIPLED_1206 led        1
+R1            1k                 R-EU_R1210W                  R1210W       rcl        1
+R2            100R               RESEU-10                     R-10         discrete   1
+R3            1k                 R-EU_R1210W                  R1210W       rcl        1
+R4            1k                 R-EU_R1210W                  R1210W       rcl        1
+R5            k1                 R-EU_R1210W                  R1210W       rcl        1
+R6            4k                 R-EU_R0805W                  R0805W       rcl        1
+R7            4k                 R-EU_R0805W                  R0805W       rcl        1
+R8            4k                 R-EU_R0805W                  R0805W       rcl        1
+R9            4k                 R-EU_R0805W                  R0805W       rcl        1
+R10           4k                 R-EU_R0805W                  R0805W       rcl        1
+R11           4k                 R-EU_R0805W                  R0805W       rcl        1
+R12           4k                 R-EU_R0805W                  R0805W       rcl        1
+R13           4k                 R-EU_R0805W                  R0805W       rcl        1
+R14           100R               RESEU-10                     R-10         discrete   1
+R15           4k                 R-EU_R0805W                  R0805W       rcl        1
+R16           4k                 R-EU_R0805W                  R0805W       rcl        1
+R17           4k                 R-EU_R0805W                  R0805W       rcl        1
+R18           4k                 R-EU_R0805W                  R0805W       rcl        1
+R19           2k2                R-EU_R1210W                  R1210W       rcl        1
+R20           1k                 R-EU_R1210W                  R1210W       rcl        1
+X1            WAGO16-233-116     WAGO16-233-116               233-116      con-wago   1
+X2            WAGO5-233-105      WAGO5-233-105                233-105      con-wago   1
+X3            WAGO8-233-108      WAGO8-233-108                233-108      con-wago   1
